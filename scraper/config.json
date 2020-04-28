@@ -1,0 +1,12 @@
+[
+	{
+		"currency": "XRP",
+		"url" : "https://coinmarketcap.com/currencies/xrp/"
+	},
+
+	{
+		"currency": "ethereum",
+		"url" : "https://coinmarketcap.com/currencies/ethereum/markets/"
+	}
+
+]
